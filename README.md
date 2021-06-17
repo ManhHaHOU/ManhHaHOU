@@ -1,3 +1,3 @@
 # Hello World!
 
-> This is a test for commit signing
+> This is a test for signing commit
