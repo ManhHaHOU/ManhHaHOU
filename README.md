@@ -2,4 +2,4 @@
 
 > This is a test for commit signing
 
-This is my work account. My main account is [Belikhun](https://github.com/Belikhun)
+This is my work account. My main account is [redacted]
